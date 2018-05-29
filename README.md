@@ -1,2 +1,2 @@
 # SevenWonders
-List of seven wonders on May 2018
+List of seven wonders as json file
