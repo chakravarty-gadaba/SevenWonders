@@ -7,8 +7,8 @@
 "image" : "https://www.wonders-of-the-world.net/Seven/images/Vignettes/Modernes/Grande-muraille-de-Chine-V.jpg",
 
 "Map" : {
-        "lattitude":0.0,
-        "longitude" :0.0
+        "lattitude":40.432177,
+        "longitude" :116.570364
         }
 },
 
@@ -18,8 +18,8 @@
 "image" : "https://www.wonders-of-the-world.net/Seven/images/Vignettes/Modernes/Petra-V.jpg",
 
 "Map" : {
-        "lattitude":0.0,
-        "longitude" :0.0
+        "lattitude":30.328732, 
+        "longitude" :35.444362
         }
 },
 
@@ -29,8 +29,8 @@
 "image" : "https://www.wonders-of-the-world.net/Seven/images/Vignettes/Modernes/Christ-redempteur-V.jpg",
 
 "Map" : {
-        "lattitude":0.0,
-        "longitude" :0.0
+        "lattitude":-22.951550, 
+        "longitude" :-43.210466
         }
 },
 {
@@ -39,8 +39,8 @@
 "image" : "https://www.wonders-of-the-world.net/Seven/images/Vignettes/Modernes/Machu-Picchu-V.jpg",
 
 "Map" : {
-        "lattitude":0.0,
-        "longitude" :0.0
+        "lattitude":-13.535196, 
+        "longitude" :-71.958335
         }
 },
 {
@@ -49,8 +49,8 @@
 "image" : "https://www.wonders-of-the-world.net/Seven/images/Vignettes/Modernes/Chichen-Itza-V.jpg",
 
 "Map" : {
-        "lattitude":0.0,
-        "longitude" :0.0
+        "lattitude":20.711893, 
+        "longitude" :-88.202127
         }
 },
 {
@@ -59,8 +59,8 @@
 "image" : "https://www.wonders-of-the-world.net/Seven/images/Vignettes/Modernes/Colisee-de-Rome-V.jpg",
 
 "Map" : {
-        "lattitude":0.0,
-        "longitude" :0.0
+        "lattitude":41.890506, 
+        "longitude" :12.492209
         }
 },
 {
