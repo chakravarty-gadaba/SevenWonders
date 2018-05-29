@@ -1,0 +1,78 @@
+{
+
+"Wonders" : [
+{
+"name" : "The Great wall",
+"Place" : "Beijing (China)",
+"image" : "https://www.wonders-of-the-world.net/Seven/images/Vignettes/Modernes/Grande-muraille-de-Chine-V.jpg",
+
+"Map" : {
+        "lattitude":0.0,
+        "longitude" :0.0
+        }
+},
+
+{
+"name" : "The city of Petra",
+"Place" : "Petra (Jordania)",
+"image" : "https://www.wonders-of-the-world.net/Seven/images/Vignettes/Modernes/Petra-V.jpg",
+
+"Map" : {
+        "lattitude":0.0,
+        "longitude" :0.0
+        }
+},
+
+{
+"name" : "Christ the Redeemer",
+"Place" : "Rio-de-Janeiro (Brazil)",
+"image" : "https://www.wonders-of-the-world.net/Seven/images/Vignettes/Modernes/Christ-redempteur-V.jpg",
+
+"Map" : {
+        "lattitude":0.0,
+        "longitude" :0.0
+        }
+},
+{
+"name" : "The Machu Picchu",
+"Place" : "Cuzco (Peru)",
+"image" : "https://www.wonders-of-the-world.net/Seven/images/Vignettes/Modernes/Machu-Picchu-V.jpg",
+
+"Map" : {
+        "lattitude":0.0,
+        "longitude" :0.0
+        }
+},
+{
+"name" : "Chichen Itza",
+"Place" : "Valladolid (Mexico)",
+"image" : "https://www.wonders-of-the-world.net/Seven/images/Vignettes/Modernes/Chichen-Itza-V.jpg",
+
+"Map" : {
+        "lattitude":0.0,
+        "longitude" :0.0
+        }
+},
+{
+"name" : "The Colosseum",
+"Place" : "Roma (Italia)",
+"image" : "https://www.wonders-of-the-world.net/Seven/images/Vignettes/Modernes/Colisee-de-Rome-V.jpg",
+
+"Map" : {
+        "lattitude":0.0,
+        "longitude" :0.0
+        }
+},
+{
+"name" : "Taj Mahal",
+"Place" : "Agra (India)",
+"image" : "https://www.wonders-of-the-world.net/Seven/images/Vignettes/Modernes/Taj-Mahal-V.jpg",
+
+"Map" : {
+        "lattitude":0.0,
+        "longitude" :0.0
+        }
+}
+          ]
+
+}
