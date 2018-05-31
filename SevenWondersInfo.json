@@ -1,6 +1,4 @@
-{
-
-"Wonders" : [
+[
 {
 "name" : "The Great wall",
 "Place" : "Beijing (China)",
@@ -74,5 +72,3 @@
         }
 }
           ]
-
-}
